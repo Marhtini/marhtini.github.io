@@ -41,3 +41,12 @@ Now would be a good idea to ask ourselves some questions about why the "Impossib
 * Will answering the question correctly break gameplay?
 * If it does break, how can this benefit us?
 
+Now that we have a few questions in the back of our mind, lets progress a bit in the game. Since we are trying to answer the Impossible Question we should take a good, thorough look at what a normal question looks like as an instantiated C# class.
+
+Let's head to the first "Notebook", click on it, and begin the Math Game.
+
+##### First Notebook:
+<img src=".\assets\img\p1\first_noteboo.PNG" alt="Baldi" class="inline"/>
+
+##### Math Game:
+<img src=".\assets\img\p1\mathtime_1.PNG" alt="Baldi" class="inline"/>
