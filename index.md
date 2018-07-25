@@ -25,11 +25,19 @@ To begin to discover the answer to the Impossible Question, we need to attach th
 
 After activating the Mono Features of the Cheat Engine, we will begin to search for where the C# Classes for Gameplay are stored. For games made with Unity and Mono, we can navitgate to the Assembly-CSharp class. Note for those of you that are new to this that the memory address will not be the same on your host if you are following along. This is due to the way that modern Operating Systems virtualize memory and randomize memory addresses. Security++
 
-##### Mono Dissector
+##### Mono Dissector:
 <img src=".\assets\img\p1\assembly_csharp.PNG" alt="Baldi" class="inline"/>
 
 Briefly clawing our way through the C# classes available to us, we come to the Class that is going to help us answer the Impossible Question, MathGameScript. Expanding this class provides us a handy list of fields and methods available to the MathGameScript class.
 
-##### MathGameScript Class
+##### MathGameScript Class:
 <img src=".\assets\img\p1\MathGameScript_Func.PNG" alt="Baldi" class="inline"/>
+
+Now would be a good idea to ask ourselves some questions about why the "Impossible Question" can't answered:
+
+* Is the jumbled text the problem?
+* Is the text itself even relevant?
+* Will the answer be wrong no matter what? 
+* Will answering the question correctly break gameplay?
+* If it does break, how can this benefit us?
 
