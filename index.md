@@ -67,7 +67,7 @@ For the above, we'll look for the following values:
 * num2 - 9
 * solution - 15
 
-Once we've identified the proper class instance, continue on to question three. You'll notice a different between the first and third questions right away.
+Once we've identified the proper class instance, continue on to question three. You'll notice a difference between the first and third questions right away.
 
 ##### I Can't Even! (or Odd):
 <img src=".\assets\img\p1\impossible_q.PNG" alt="NoWayJose" class="inline"/>
