@@ -5,6 +5,10 @@ Baldi's Basics is a self-described "state-of-the-art, fully 3D interactive, fun-
 
 Unfortunately for you, Baldi really doesn’t like it when you mess up. Particularly in “Everyone’s favorite subject, Math!”.  If you’ve ever played the game, you may believe that Math is the only subject on the table in Baldi’s world. However, I’m about to turn it into a fun and educational reverse engineering experience! ;) 
 
+##### What a Creep... Or, Welcome to Baldi's Basics!
+<img src=".\assets\img\p1\baldi_enter.PNG" alt="Baldi" class="inline"/>
+
+
 You quickly realize that things are not quite what they seem in Baldi’s educational horror show when one of the questions you’re required to answer suddenly becomes incomprehensible, a la Zalgo, and you are unable to appease Baldis extreme expectations. 
 “Unfair!” I hear you shouting. How can we possible answer a question that is so jumbled that is clearly designed for us to fail?
 Well, anything is possible through the magic of Reverse Engineering, memory manipulation, and debugging!
@@ -13,11 +17,19 @@ For this exercise, we will be using Cheat Engine. In this specific case, the use
 
 To begin to discover the answer to the Impossible Question, we need to attach the Cheat Engine software to the game executable (BALDI.EXE), and activate the available Mono Features.
 
-#### Attaching to the game executable:
+##### Attaching to the game executable:
 <img src=".\assets\img\p1\baldi_exe.PNG" alt="Baldi" class="inline"/>
 
-#### Activating the features:
+##### Activating the features:
 <img src=".\assets\img\p1\mono_dissect.PNG" alt="MonoDissect" class="inline"/>
 
+After activating the Mono Features of the Cheat Engine, we will begin to search for where the C# Classes for Gameplay are stored. For games made with Unity and Mono, we can navitgate to the Assembly-CSharp class. Note for those of you that are new to this that the memory address will not be the same on your host if you are following along. This is due to the way that modern Operating Systems virtualize memory and randomize memory addresses. Security++
 
+##### Mono Dissector
+<img src=".\assets\img\p1\assembly_csharp.PNG" alt="Baldi" class="inline"/>
+
+Briefly clawing our way through the C# classes available to us, we come to the Class that is going to help us answer the Impossible Question, MathGameScript. Expanding this class provides us a handy list of fields and methods available to the MathGameScript class.
+
+##### MathGameScript Class
+<img src=".\assets\img\p1\MathGameScript_Func.PNG" alt="Baldi" class="inline"/>
 
