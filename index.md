@@ -14,10 +14,10 @@ For this exercise, we will be using Cheat Engine. In this specific case, the use
 To begin to discover the answer to the Impossible Question, we need to attach the Cheat Engine software to the game executable (BALDI.EXE), and activate the available Mono Features.
 
 Attaching to the game executable:
-<img src=".\assets\img\p1\baldi_exe.png" alt="Baldi" class="inline"/>
+<img src=".\assets\img\p1\baldi_exe.PNG" alt="Baldi" class="inline"/>
 
 Activating the features:
-<img src=".\assets\img\p1\mono_dissect.png" alt="MonoDissect" class="inline"/>
+<img src=".\assets\img\p1\mono_dissect.PNG" alt="MonoDissect" class="inline"/>
 
 
 
