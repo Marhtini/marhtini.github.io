@@ -1,2 +1,2 @@
-## Marhtini - Infosec, Programming, Gaming, and Other Jive
+## Marhtini - Infosec, Programming, and Other Jive
 
