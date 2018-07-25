@@ -1,2 +1,2 @@
-## Marhtini
-Hello World!
+## Marhtini - Infosec, Programming, Gaming, and Other Jive
+
