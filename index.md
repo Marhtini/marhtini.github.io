@@ -16,6 +16,10 @@ Baldi's Basics is a self-described "state-of-the-art, fully 3D interactive, fun-
 
 Unfortunately for you, Baldi really doesn’t like it when you mess up. Particularly in “Everyone’s favorite subject, Math!”.  If you’ve ever played the game, you may believe that Math is the only subject on the table in Baldi’s world. However, I’m about to turn it into a fun and educational reverse engineering experience! ;) 
 
+Night time update:
+
+A quick addition to this, I made an assumption about transmitting speech in audio that turned out to be difficult to do without a hefty processing price (or latency connecting to a speech recognition cloud service) which is going to be a big no no. Found a solution and will be testing that tomorrow.
+
 ##### What a Creep... Or, Welcome to Baldi's Basics!
 <img src=".\assets\img\p1\baldi_enter.PNG" alt="Baldi" class="inline"/>
 
