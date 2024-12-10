@@ -1,5 +1,13 @@
 ## Development Log 0 - December 9th 2024
-I'm working on an audio processing project that is a bit of a meme (and a lot of fun) for me. I took a look at a few audio procesing libraries for a small form-factor device running Linux and decided to take a crack at ALSA in C (alsa/asoundlib.h). I've managed to get the microphone engaged and picking up audio, with a delay to allow for spoken words to be recorded. More on this later. Right now, the code is in a private repo but not for long. I want to get the project structure setup and the readme written before I throw it out into the public. 
+I’ve started work on an audio processing project. For a small Linux-based device, I explored several audio processing libraries and decided to work with ALSA in C (alsa/asoundlib.h).
+
+So far, I’ve successfully configured the microphone to capture audio with a delay, allowing spoken words to be recorded. I’m prioritizing performance and real-time audio capture, especially given the device’s hardware constraints.
+
+The code is in a private repo for now, but I plan to make it public once the project structure and README are polished.
+
+If anyone has recommendations for optimizing real-time audio capture or knows of alternative libraries I should explore, I’d love to hear your thoughts!
+
+More updates soon!
 
 ## Breaking Baldi - Part 1 : The Impossible Question
 <img src=".\assets\img\p1\breaking_baldi.png" alt="Baldi" class="inline"/>
