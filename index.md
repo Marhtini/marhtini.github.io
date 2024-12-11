@@ -1,3 +1,12 @@
+## Development Log 1 - December 10th 2024
+I need to get my hands on a Raspberry Pi (preferably a Compute Module) and a compatible microphone/speaker to test the 'beep' functions. I've already built the framework for recording audio and transmitting it via a series of binary beep sounds at two distinct frequencies. These can be captured by a receiving device and decoded.
+
+It's still early days, but here’s the progress so far: GitHub Repository
+
+I may need to pause development until I acquire the necessary hardware. For now, I’ll try to continue working using a development VM. If that’s not feasible, I’ll focus on writing some of the audio processing logic in C++ in the meantime.
+
+<img src=".\assets\img\techpriest.jpg" alt="TechPriest" class="inline"/>
+
 ## Development Log 0 - December 9th 2024
 I’ve started work on an audio processing project. For a small Linux-based device, I explored several audio processing libraries and decided to work with ALSA in C (alsa/asoundlib.h).
 
