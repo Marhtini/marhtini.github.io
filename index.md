@@ -1,3 +1,8 @@
+## Development Log 2 - December 11th 2024
+A very long day of non-development related activities, but I did manage to find some time to do some research into modern C++ features. No big news here, but writing some test code and seeing how things like smart pointers compare to pointers in C (running it through a debugger) is pretty enlightening. 
+
+More news tomorrow!
+
 ## Development Log 1 - December 10th 2024
 I need to get my hands on a Raspberry Pi (preferably a Compute Module) and a compatible microphone/speaker to test the 'beep' functions. I've already built the framework for recording audio and transmitting it via a series of binary beep sounds at two distinct frequencies. These can be captured by a receiving device and decoded.
 
