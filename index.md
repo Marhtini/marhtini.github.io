@@ -7,6 +7,8 @@ Today, I took a stab at OpenGL but updated the syntax and language features to p
 
 Heres the project: https://github.com/Marhtini/SimpleGraphicsEngine
 
+I'm going to be working through the night and the weekend a bit, so hopefully I'll have more to write about then.
+
 Cheers, and happy friday!
 
 
