@@ -1,6 +1,8 @@
 ## Development Log 3 - December 12th 2024
 So... I installed (successfully, mind you) Arch Linux on my ThinkPad and have started exploring NeoVim as my development platform. Also, more studying. I picked up a copy of Effective Modern C++ and plan on taking notes as I work, as well as writing some C++ code. Still pending a Raspberry Pi Compute Module, which isn't easy to find even at local Microcenters. I'm going to see if I can't pivot into something else temporarily, maybe a system visualizer or gasp shaders.
 
+Now I can say the thing!
+
 ## Development Log 2 - December 11th 2024
 A very long day of non-development related activities, but I did manage to find some time to do some research into modern C++ features. No big news here, but writing some test code and seeing how things like smart pointers compare to pointers in C (running it through a debugger) is pretty enlightening. 
 
