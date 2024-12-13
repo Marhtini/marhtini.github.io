@@ -1,3 +1,15 @@
+## Development Log 4 - December 13th 2024
+Happy Friday the 13th!
+
+I know in my last log entry, I mentioned installing Arch on my laptop, but today I found myself using Visual Studio 2022 on Windows and really enjoying a few of its quality-of-life features (especially the debugger). I struggled a bit with CMAKE, but eventually decided to explore the linker and inclusion functionality of a Visual Studio project, which proved to be quite intuitive and easy to use.
+
+Today, I took a stab at OpenGL but updated the syntax and language features to practice what I've been learning. I stopped using NULL and transitioned to nullptr. I moved some of the example code, specifically the window initialization logic, into its own file and created a tiny header for it. Additionally, I did some security studies to catch up on areas like thread safety and a few testing methodologies that I don’t get to use as much as I’d like (but would be incredibly helpful).
+
+Heres the project: https://github.com/Marhtini/SimpleGraphicsEngine
+
+Cheers, and happy friday!
+
+
 ## Development Log 3 - December 12th 2024
 So... I installed (successfully, mind you) Arch Linux on my ThinkPad and have started exploring NeoVim as my development platform. Also, more studying. I picked up a copy of Effective Modern C++ and plan on taking notes as I work, as well as writing some C++ code. Still pending a Raspberry Pi Compute Module, which isn't easy to find even at local Microcenters. I'm going to see if I can't pivot into something else temporarily, maybe a system visualizer or gasp shaders.
 
