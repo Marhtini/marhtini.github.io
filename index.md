@@ -1,3 +1,10 @@
+## Development Log 5 - December 16th 2024
+Hello Triangle. :)
+
+<img src=".\assets\img\p1\hellotriangle.jpg" alt="Triangle1" class="inline"/>
+
+Working through the OpenGL project has made me realize that I am working very closely with the abstractions provided by libraries like GLEW, GLFW, and OpenGL. I might look into Vulkan to see if the same issue arises. Otherwise, I plan to focus on a more greenfield, bottom-up project where I can ensure I'm using modern C++ features in a way that drives the point home and helps me remember them long-term.
+
 ## Development Log 4 - December 13th 2024
 Happy Friday the 13th!
 
