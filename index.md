@@ -1,3 +1,11 @@
+## Development Log 6 - December 17th 2024
+Today was a slower day for project work. I revisited some C++ code I had written seven (!) years ago, focusing on refactoring and improving efficiency.
+
+It's been a very busy week with life outside of development, but I'm looking forward to having more free time to dive deeper into my projects.
+
+https://github.com/Marhtini/DataGathererWindows
+
+
 ## Development Log 5 - December 16th 2024
 Hello Triangle. :)
 
