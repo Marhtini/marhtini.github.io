@@ -1,3 +1,10 @@
+## Development Log 7 - December 18th 2024
+Feeling under the weather today, but I still managed to start refactoring my holy-binaric project from C to C++. Just learned GitHub Copilot is now free for individuals—neat!
+
+I'm planning to use PortAudio for audio recording and still targeting a wearable Raspberry Pi, so no changes there.
+
+https://github.com/Marhtini/holy-binaric
+
 ## Development Log 6 - December 17th 2024
 Today was a slower day for project work. I revisited some C++ code I had written seven (!) years ago, focusing on refactoring and improving efficiency.
 
