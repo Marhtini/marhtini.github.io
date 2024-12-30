@@ -1,3 +1,8 @@
+## Development Log 8 - December 29th 2024
+It’s been a while — unfortunately, the kids managed to share the gift of holiday sickness with us this year.
+
+Thankfully, we’re finally starting to feel better. Looking forward to getting back into the groove as the new year kicks off. Here’s to a productive and healthy 2025! 
+
 ## Development Log 7 - December 18th 2024
 Feeling under the weather today, but I still managed to start refactoring my holy-binaric project from C to C++. Just learned GitHub Copilot is now free for individuals—neat!
 
