@@ -1,3 +1,6 @@
+## Development Log 9 - January 7th 2025
+It’s been a tough holiday season. What started as a simple sickness turned into pneumonia, leaving me bed. Once I’m on the mend, I’ll be back to writing code and tackling projects. For now, it’s all about rest and recovery.
+
 ## Development Log 8 - December 29th 2024
 It’s been a while — unfortunately, the kids managed to share the gift of holiday sickness with us this year.
 
